@@ -4,4 +4,5 @@ metadata:
   name: lab-cluster-readers
 users:
   - codekow
+  - jharmison-redhat
   - pgambard
