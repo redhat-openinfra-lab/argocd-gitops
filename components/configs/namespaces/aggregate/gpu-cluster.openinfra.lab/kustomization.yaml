@@ -16,6 +16,6 @@ patches:
         path: /spec/limits
         value:
           - default:
-              cpu: 200m
-              memory: 512Mi
+              cpu: 100m
+              memory: 256Mi
             type: Container
