@@ -6,4 +6,4 @@ resources:
   - sandbox-limit-range.yaml
   - sandbox-namespace.yaml
   - sandbox-quota-compute.yaml
-  # - sandbox-quota-storage.yaml
+  - sandbox-quota-storage.yaml
