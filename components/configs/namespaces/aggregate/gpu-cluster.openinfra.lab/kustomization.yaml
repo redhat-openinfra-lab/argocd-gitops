@@ -18,3 +18,4 @@ patches:
           - default:
               cpu: 200m
               memory: 512Mi
+            type: Container
